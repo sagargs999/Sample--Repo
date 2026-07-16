@@ -23,7 +23,7 @@ A beginner-friendly command-line calculator built using Python. This application
 simple-calculator/
 │── calculator.py
 │── README.md
-│── .gitignore
+
 ```
 
 ## ▶️ How to Run
